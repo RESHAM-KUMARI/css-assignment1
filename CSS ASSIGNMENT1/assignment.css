@@ -1,0 +1,38 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: red;
+    font-style: italic;
+}
+li{
+    color: brown;
+    
+}
+    
+.unordered{
+    letter-spacing: 5px;
+    color: brown;
+}
+.marge{
+    margin: 0%;
+    padding: 1px;
+}
+
+.background{
+    background: yellow;
+}
+
+.decor{
+    text-decoration: line-through;
+}
+p{
+    color: brown;
+}
+a{
+    color: red;
+    background: yellow;
+   
+}
+
